@@ -1,2 +1,2 @@
 # almacenamientohtml5_02
-Readme actualizado por Eduardo Estrad
+Readme actualizado por Eduardo Estrada
