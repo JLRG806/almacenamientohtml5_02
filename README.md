@@ -1,1 +1,1 @@
-# almacenamientohtml5_02
+# Readme editado por SergioMayén en la clase de base de datos
